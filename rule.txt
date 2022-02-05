@@ -1,0 +1,24 @@
+                                                                                                   .                                       
+										                                                        .
+										
+									----------------------------RULE----------------------------
+									
+										
+								-Thu thap key (K) va tim duong thoat khoi me cung bang loi con lai.
+									
+								-Co the co Key Fake.
+									
+								-Khong the ra khoi me cung khi chua hoan thanh nhiem vu, khong the thoat ra bang loi vao.
+									
+								-Su dung cac phim (a,s,d,w) de di chuyen. trong do:
+								        + d : sang phai
+								        + a : sang trai
+								        + w : di len
+								        + s : di xuong
+								- Co the thay doi hoac xoa bien (check1=0,check2=0) trong cac func level_1(),level_2()... 
+								  hoac thay doi gtri cua bien key=2;
+								  de duoc nhat 1 chia khoa nhieu lan, khong can choi full game.
+								        
+								                      'Press enter' = EXIT 
+									        
+									
